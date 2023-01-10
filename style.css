@@ -1,0 +1,70 @@
+a.navbar-link{
+    text-decoration: none;
+    color: rgb(96, 17, 17);
+    font-size: 20px;
+}
+#navbar-div{
+    display: flex;
+    justify-content:flex-end;
+    column-gap: 20px;
+    padding: 25px 1px;
+    font-weight: 550px;
+    background-color: #ffebcd;
+}
+img{
+    border-radius: 50pc;
+}
+#photo {
+    display: flex;
+    height: 170px;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+
+#heading{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(96, 17, 17);
+    font-size: 70px;
+    
+}
+h1:hover {
+    box-shadow: inset 500pc 0 0 0 #54b3d6;
+    color: white;
+  }
+
+#abouth{
+    padding-right: 70%;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    background-color: bisque;
+    font-size: 30px;
+}
+
+#aboutpara{
+    max-width: 400px;
+    font-size: large;
+}
+
+    table.GeneratedTable {
+      width: 100%;
+      background-color: #ffebcd;
+      border-collapse: collapse;
+      border-width: 2px;
+      border-color: #601211;
+      border-style: ridge;
+      color: #4b0808;
+    }
+    
+    table.GeneratedTable td, table.GeneratedTable th {
+      border-width: 2px;
+      border-color: #601211;
+      border-style: ridge;
+      padding: 3px;
+    }
+    
+    table.GeneratedTable thead {
+      background-color: #c48787;
+    }
+
